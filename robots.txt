@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caichohru.tobygoodshank.com/sitemap.xml
